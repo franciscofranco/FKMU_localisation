@@ -9,6 +9,7 @@ The strings.xml structure is like this:
 ```
 
 Your name will be added into the app under "Contributors" so please write the name you want me to use on your pull request.
+I'll also give you a promo code if translate into your language or contribute enough.
 
 [Download Franco Kernel Manager & Updater](https://play.google.com/store/apps/details?id=com.franco.kernel)
 ### License
