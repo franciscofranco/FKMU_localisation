@@ -1,6 +1,6 @@
 # Franco Kernel Manager & Updater language localisation
 
-To localise to your language either send a pull request with the translation + respective directory (eg. spanish, french) or send me an e-mail with the translated strings and I'll upload them here.
+To localise to your language either send a pull request ([How to make a pull request?](https://help.github.com/articles/creating-a-pull-request/)) with the translation + respective directory (eg. spanish, french) or send me an e-mail with the translated strings and I'll upload them here.
 
 The strings.xml structure is like this:
 
