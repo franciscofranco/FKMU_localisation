@@ -399,11 +399,11 @@
     <string name="applied">Applicato</string>
     <string name="restore">Ripristina</string>
     <string name="installed">Installato</string>
-    <string name="low_cpu_underclock">25% power reduction</string>
-    <string name="medium_cpu_underclock">50% power reduction</string>
-    <string name="high_cpu_underclock">75% power reduction</string>
+    <string name="low_cpu_underclock">Potenza ridotta del 25%</string>
+    <string name="medium_cpu_underclock">Potenza ridotta del 50%</string>
+    <string name="high_cpu_underclock">Potenza ridotta del 75%</string>
     <string name="lower_max_brightness">Riduci la luminosità massima</string>
-    <string name="lower_max_brightness_description">The display is one of the two components that use the most power. Even with adaptive brightness the panel will reach high nits of light, sometimes unnecessarily. By reducing the maximum value it can achieve you\'ll save some very precious battery when you need it the most.</string>
+    <string name="lower_max_brightness_description">Il display é una delle due componenti che richiedono più energia. Anche utilizzando la luminosità automatica il display potrà raggiungere livelli di luminosità elevati, spesso inutilmente. Riducendo il massimo valore di luminosità, potrai risparmiare batteria da usare all'occorrenza.</string>
     <string name="low_lower_max_brightness">Massima luminosità ridotta del 20%</string>
     <string name="medium_lower_max_brightness">Massima luminosità ridotta del 40%</string>
     <string name="high_lower_max_brightness">Massima luminosità ridotta del 60%</string>
@@ -419,7 +419,7 @@
     <string name="franco_kernel_updater_free">If you don\'t (yet) have my full featured app you can always just download its *free* counter part which lets you seamlessly and automagically update Franco Kernel on your device. It\'s free and my cat approves!</string>
     <string name="something_wrong_happened">E' accaduto qualcosa di veramente brutto, ma non sappiamo bene cosa :|</string>
     <string name="new_io_scheduler">IO Scheduler</string>
-    <string name="save_per_app_profile_error">Errore durante il salvataggio del profilo. Prova a configurarlo di nuovo. Mi spiace!</string>
+    <string name="save_per_app_profile_error">Errore durante il salvataggio del profilo. Prova a configurarlo di nuovo. Mi dispiace!</string>
     <string name="max_panel_brightness">Luminosità display massima</string>
     <string name="max_panel_brightness_summary">100%</string>
     <string name="display_max_brightness_error">Il valore deve essere maggiore di 0 fino ad un massimo di 100</string>
