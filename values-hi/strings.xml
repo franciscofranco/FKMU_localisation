@@ -57,7 +57,7 @@
     <string name="kernel_up_to_date">आप उप टू डेट है !</string>
     <string name="kernel_update_available">अपडेट उपलब्ध है !</string>
     <string name="downloading">डाउनलोड हो रहा  %1$s%2$s</string>
-    <string name="calculating">Little gnomes are calculating download\'s ETA</string> 
+    <string name="calculating">Little gnomes are calculating download\'s ETA</string>
     <string name="voltage_control">विद्युत दाब व्यवस्थापक</string>
     <string name="cpu_boost">सीपीयू-बढ़ावा</string>
     <string name="gpu_control">जीपीयू व्यवस्थापक</string>
@@ -67,7 +67,7 @@
     <string name="set_on_boot_msg">चालू होने के दौरान सेट : %1$s</string>
     <string name="md5_error">अपनेआप फ़्लैश का विरोध !</string>
     <string name="md5_error_msg">MD5 मेल नहीं खा रहा. पुनः डाउनलोड करें.</string>
-    <string name="auto_flash_success_auto_reboot">अपने आप फ़्लैश सफल हुआ ! रिबूट हो रहा...</string>
+    <string name="auto_flash_success_auto_reboot">अपने आप फ़्लैश सफल हुआ ! रिबूट हो रहा…</string>
     <string name="auto_flash_success">अपने आप फ़्लैश सफल हुआ !</string>
     <string name="download_complete">डाउनलोड संपूर्ण हुआ !</string>
     <string name="io_scheduler">आय / ओ शेड्यूलर </string>
@@ -152,7 +152,7 @@
     <string name="meal_title">खाना </string>
     <string name="meal_summary">पिज़्ज़ा या चिकन के अलावा कोई और अच्छा कारन नहीं है कोडिंग रुकवाने का. अच्छा है सलाद भी है </string>
     <string name="big_meal_title">बड़ा भोजन </string>
-    <string name="big_meal_summary">ये सिर्फ मेरा नहीं बल्कि मेरेबिल्ली को भी प्रेरित करेगा  जो पूरा दिन मेरे साथ काम करता है वो भी मुफ़्त में... जब तक में उसका पेट भरता रहू </string>
+    <string name="big_meal_summary">ये सिर्फ मेरा नहीं बल्कि मेरेबिल्ली को भी प्रेरित करेगा  जो पूरा दिन मेरे साथ काम करता है वो भी मुफ़्त में… जब तक में उसका पेट भरता रहू </string>
     <string name="item_purchase_success">आपका बहुत बहुत शुक्रिया। आप महान है ! मुझे मेल कर दीजिये ताकि में आपको *व्यक्तिगत* रूप से आभार प्रकट कर सकु :) </string>
     <string name="max_cpu_info">सीपीयू  की अभिक्तम फ्रीक्वेंसी  साधारण से काम कोई भी मूल्यांक बैटरी बचाएगा किन्तु परफॉरमेंस पे असर कर सकता है </string>
     <string name="min_cpu_info">यह न्यूनतम फ्रीक्वेंसी है जो आपका कर्नल सपोर्ट करता है </string>
@@ -291,7 +291,7 @@
     <string name="error_anykernel_flash">झिप फ़्लैश करने में कुछ बाधा आ रही है *कंधे हिलाने की क्रिया*</string>
     <string name="automation">ऑटोमेशन</string>
     <string name="copied_to_clipboard">क्लिपबोर्ड पे कॉपी किआ </string>
-    <string name="automation_summary">आप निचे दिए गए /'एक्शन /' अप्पने आप करने वाले एप्प्स में दाल सकते है जैसे की --टास्कर  \n \n इसको कॉपी करने के लिए टच करे और अपने किसी भी ऑटोमेशन एप्प में उसे काम कीजिये </string>
+    <string name="automation_summary">आप निचे दिए गए \'एक्शन \' अप्पने आप करने वाले एप्प्स में दाल सकते है जैसे की —टास्कर  \n \n इसको कॉपी करने के लिए टच करे और अपने किसी भी ऑटोमेशन एप्प में उसे काम कीजिये </string>
     <string name="options">विकल्प </string>
     <string name="compatible_apps">कामकरने वाले एप्प्स </string>
     <string name="open">खोले </string>
@@ -303,7 +303,7 @@
     <string name="magical_enhancements_incoming">जादुई चीजे आ रही है </string>
     <string name="kernel_download_error">कर्नल डाउनलोड होते समय कुछ बढ़ आयी है , माफ़ कीजिये कारन नहीं बता सकते !</string>
     <string name="donate_description">फ्रांको मेनेजर  &amp; जनवरी २०१२ से उपलब्ध है ! इसको ५ साल हो गए लगातार सप्पोर्ट तथा अपडेट चालू है और अगले ५ साल तक भी चालू रहेंगे !</string>
-    <string name="donate_description_title">आप महान है', धन्यवाद् !</string>
+    <string name="donate_description_title">आप महान है\', धन्यवाद् !</string>
     <string name="wifi_status">वाय-फ़ाय की स्तिथि </string>
     <string name="android_battery_saver">एनरोइड का बैटरी सेवर </string>
     <string name="location_mode">स्थान की स्तिथि </string>
@@ -412,8 +412,8 @@
     <string name="no_root_title">रुट एक्सेस उपलब्ध नहीं है </string>
     <string name="no_root_message">बिना रुट एक्सेस के इस ऐप्प की ज्यादातर चीजे काम नहीं करेंगी और शुरुवाती समय में बहुत से गलतिया दिखाई देंगी, जी हाँ आपने सही सोचा रुट एक्सेस नहीं है </string>
     <string name="close_the_app">ऐप्प बंद करे </string>
-    <string name="applying">लागु हो रहा...</string>
-    <string name="restoring">रिस्टोर हो रहा...</string>
+    <string name="applying">लागु हो रहा…</string>
+    <string name="restoring">रिस्टोर हो रहा…</string>
     <string name="gpu_underclock_overflow_troll">यहाँ पे कुछ नहीं है सिर्फ प्रदर्शन के लिए रखा है </string>
     <string name="naptime_overflow_msg">यहाँ देखने लायक कुछ नहीं है अगर नैपटाइम इनस्टॉल नहीं है </string>
     <string name="franco_kernel_updater_free">अगर आपके पास मेरा संपूर्ण रचनात्मक अप्प नहीं है (अभी तक) आप कभी भी इसका दूसरा वाला एप्प डाउनलोड कर सकते है जो आपको  कर्नल इनस्टॉल तथा अपडेट करने में मदत करेगा और यह बिल्कुम *मुफ़्त* है मेरी बिली भी यही मानती है  !</string>
