@@ -426,4 +426,8 @@
     <string name="disabled_wakelock">This wakelock is disabled and it\'s blocked from running to maximize battery life</string>
     <string name="enabled_wakelock">Enabled but may reduce battery life during screen off</string>
     <string name="no_backups_found">No backups found</string>
+    <string name="translate_title">Help me with translations!</string>
+    <string name="translate_summary">I want you to help me translate this app into more languages. Your name will be displayed in a contributors list for recognition</string>
+    <string name="boot_service_init_delay">FK Manager &amp; Updater - applying \"set on boot\" settings in ~10 seconds</string>
+    <string name="no_play_store">You need to have Google\'s Play Store installed</string>
 </resources>
