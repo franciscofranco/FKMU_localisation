@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="backup_restore_title">बैकअप &amp; पुनःस्थापन</string>
+    <string name="backup_restore_title">बैकअप तथा पुनःस्थापन</string>
     <string name="cpu_manager_title">सीपीयू व्यवस्थापक </string>
     <string name="kernel_settings_title">कर्नल सेटिंग </string>
     <string name="color_control_title">डिस्प्ले व्यवस्थापन </string>
@@ -8,8 +8,8 @@
     <string name="system_monitor_title">प्रणाली परिवीक्षक</string>
     <string name="file_manager_title">फ़ाइल व्यवस्थापक</string>
     <string name="settings_title">विकल्प</string>
-    <string name="support_title">मदत  &amp; सहारा </string>
-    <string name="yes">हां  </string>
+    <string name="support_title">मदत तथा सहारा </string>
+    <string name="yes">हां </string>
     <string name="changelog_internal_error_parsing">फाइल पार्स करते समय बाधा आ रही </string>
     <string name="changelog_header_version">"संस्करण "</string>
     <string name="no_internet_connection">इंटरनेट काम नहीं कर रहा </string>
@@ -17,7 +17,7 @@
     <string name="download_zip">झिप डाउनलोड करे </string>
     <string name="changelog_title">परिवर्तन</string>
     <string name="share_kernel_msg_title">फ्रांको कर्नेल का नया संस्करण आपले लिए है </string>
-    <string name="share_kernel_sent_from">*फ्रांको कर्नेल व्यवस्थापक &amp; अपडेटर * ये इस कर्नेल  लिए उत्तम साथी है </string>
+    <string name="share_kernel_sent_from">*फ्रांको कर्नेल व्यवस्थापक तथा अपडेटर * ये इस कर्नेल  लिए उत्तम साथी है </string>
     <string name="my_backups">कर्नल</string>
     <string name="max_cpu_freq">अधिकतम सीपीयू फ्रीक्वेंसी </string>
     <string name="min_cpu_freq">न्यूनतम सीपीयू फ्रीक्वेंसी </string>
@@ -27,14 +27,14 @@
     <string name="cluster_cpu_governor">%1$s सीपीयू शासक</string>
     <string name="backup_all_the_things">आपके कर्नेल का बैकअप ले </string>
     <string name="no_backups">आपके पास कोई बैकअप नहीं है </string>
-    <string name="auto_flash_and_reboot">अपनेआप फ़्लैश &amp; रिबूट</string>
+    <string name="auto_flash_and_reboot">अपनेआप फ़्लैश और रिबूट</string>
     <string name="auto_flash_and_reboot_summary">आप पक्का इस कर्नेल को रिस्टोर करके रिबूट करना चाहते है ?</string>
     <string name="misc">विविध</string>
     <string name="auto_reboot_summary_on">अपनेआप फ़्लैश सफल होने के बाद डिवाइस रिबूट होगा </string>
     <string name="auto_reboot_summary_off">अपनेआप फ़्लैश होने के बाद डिवाइस रिबूट नहीं होगा </string>
     <string name="new_kernel_notify_title">नए कर्नल के लिए सूचित करे </string>
     <string name="new_kernel_notify_summary_on">हर २४ घंटो बाद कर्नल के नए संस्करण की जांच करे </string>
-    <string name="new_kernel_notify_summary_off">कर्नेल के नए संस्करण की  अपनेआप जाँच बंद है </string>
+    <string name="new_kernel_notify_summary_off">कर्नेल के नए संस्करण की अपनेआप जाँच बंद है </string>
     <string name="per_app_modes">ऐप्प के अनुसार प्रोफाइल</string>
     <string name="cpu_temperature">सीपीयू तापमान</string>
     <string name="play_games">खेल खेलें </string>
@@ -57,7 +57,7 @@
     <string name="kernel_up_to_date">आप उप टू डेट है !</string>
     <string name="kernel_update_available">अपडेट उपलब्ध है !</string>
     <string name="downloading">डाउनलोड हो रहा  %1$s%2$s</string>
-    <string name="calculating">Little gnomes are calculating download\'s ETA</string>
+    <string name="calculating">नन्हे शैतान आपके डाउनलोड की जानकारी ले रहे है</string>
     <string name="voltage_control">विद्युत दाब व्यवस्थापक</string>
     <string name="cpu_boost">सीपीयू-बढ़ावा</string>
     <string name="gpu_control">जीपीयू व्यवस्थापक</string>
@@ -70,9 +70,9 @@
     <string name="auto_flash_success_auto_reboot">अपने आप फ़्लैश सफल हुआ ! रिबूट हो रहा…</string>
     <string name="auto_flash_success">अपने आप फ़्लैश सफल हुआ !</string>
     <string name="download_complete">डाउनलोड संपूर्ण हुआ !</string>
-    <string name="io_scheduler">आय / ओ शेड्यूलर </string>
+    <string name="io_scheduler">आय/ओ शेड्यूलर </string>
     <string name="temp_threshold">सीपीयू थर्मल थ्रेसहोल्ड </string>
-    <string name="fsync">आय / ओ एफ सिंक </string>
+    <string name="fsync">आय/ओ एफ सिंक </string>
     <string name="vibrator_amp">कम्पन एम्प </string>
     <string name="usb_fast_charge">यूसबी जल्द चार्ज </string>
     <string name="tegra_smartdimmer">टेग्रा स्मार्टडिम्मर </string>
@@ -92,7 +92,7 @@
     <string name="enabled">चालू </string>
     <string name="uknown">अज्ञात</string>
     <string name="delete">डिलीट</string>
-    <string name="fm_feature_title">फीचर्स  &amp; एक्शन्स</string>
+    <string name="fm_feature_title">फीचर्स और एक्शन्स</string>
     <string name="fm_feature_1"> • स्वयं फ़्लैश boot.img और anykernel झिप </string>
     <string name="fm_feature_2"> • एसडीकार्ड में भ्रमण करे </string>
     <string name="fm_feature_3"> • कोई भी फाइल खोले </string>
@@ -104,7 +104,7 @@
     <string name="gpu_up_threshold">जीपीयू अप_थ्रेसहोल्ड </string>
     <string name="gpu_down_threshold">जीपीयू  डाउन _थ्रेसहोल्ड </string>
     <string name="online_cores_threshold">ऑनलाइन कोर्स थ्रेसहोल्ड </string>
-    <string name="new_profile">नयी प्रोफाइल </string>
+    <string name="new_profile">नयी प्रोफाइल</string>
     <string name="per_app_profile_applied">ऐप्प के अनुसार प्रोफाइल : %1$s लागु की !</string>
     <string name="per_app_profile_disabled">ऐप्प के अनुसार प्रोफाइल : सिस्टम साधारण जगह पे आ गयी !</string>
     <string name="apply_profile">प्रोफाइल लागु करो </string>
@@ -124,9 +124,9 @@
     <string name="performance_title">परफॉरमेंस </string>
     <string name="performance_description">जीपीयू हमेशा अधिकतम ताकद  रहता है इनपुट बूस्ट और फ्रीक्वेंसी भी बधाई  गयी है।  एकदम कोमलता से!</string>
     <string name="new_profile_hint">प्रोफाइल का नाम </string>
-    <string name="disable_per_app_modes_service_summary_off">यह सेवा चालू है </string>
+    <string name="disable_per_app_modes_service_summary_off">यह सेवा चालू है</string>
     <string name="device">डिवाइस </string>
-    <string name="device_status">स्तिथी </string>
+    <string name="device_status">स्तिथी</string>
     <string name="app_info">संस्करण : %1$s (%2$d)\n कॉपीराइट  © २०११-२०१७ \n फ्रांसिस्को फ्रांको </string>
     <string name="supported">समर्थित</string>
     <string name="not_supported">असमर्थित </string>
@@ -183,8 +183,8 @@
     <string name="supported_device_no_kernel">जरूर आपका फ़ोन फ्रांको कर्नल समर्थित है मात्र आप जो एंड्राइड का संस्करण चला रहे है उसके लिए अभी बना नहीं है \n जल्द ही बन जाएगा™ \n तब तक आप एक्सडीए पे उसका काम कहा तक पंहुचा उसकी जानकारी ले सकते है  </string>
     <string name="double_tap_to_wake">डबल टैप टू वेक </string>
     <string name="vibrator_amp4">कम्पन बल</string>
-    <string name="boot_service_init">फ्रांको व्यवस्थापक  &amp; अपडेटर  -बूट होने के बाद की सेटिंग लागु कर रहा  </string>
-    <string name="boot_service_exit">फ्रांको व्यवस्थापक  &amp; अपडेटर  -बूट होने के बाद की सेवा लागु कर दी </string>
+    <string name="boot_service_init">फ्रांको व्यवस्थापक और अपडेटर  -बूट होने के बाद की सेटिंग लागु कर रहा  </string>
+    <string name="boot_service_exit">फ्रांको व्यवस्थापक और अपडेटर  -बूट होने के बाद की सेवा लागु कर दी </string>
     <string name="kernel_download">कर्नल डाउनलोड</string>
     <string name="download_start">कर्नल डाउनलोड शुरू हुआ</string>
     <string name="download_finish">कर्नल डाउनलोड ख़तम हुआ </string>
@@ -246,10 +246,10 @@
     <string name="green">हरा </string>
     <string name="blue">नीला </string>
     <string name="profile_whitespace_warning">नाम के भीतर अंतर नहीं होना चाहिए </string>
-    <string name="profile_length_warning">नाम का अंतर बहुत ज्यादा है (अधिकतम  १५)</string>
+    <string name="profile_length_warning">नाम का अंतर बहुत ज्यादा है (अधिकतम १५)</string>
     <string name="profile_separator_warning">नाम के अंदर पाथ सेपरेटर नहीं चलेगा </string>
     <string name="profile_empty_warning">नाम खाली ना हो </string>
-    <string name="profile_default_exists_warning">अपने जो नाम चुना है वो मौजूद नहीं  है. कृपया कोई दूसरा चुने </string>
+    <string name="profile_default_exists_warning">अपने जो नाम चुना है वो मौजूद नहीं है. कृपया कोई दूसरा चुने </string>
     <string name="new_name">नया नाम </string>
     <string name="set">सेट </string>
     <string name="no_activity_exception">ये क्रिया करने के लिए आपके पास कोई ऐप्प मौजूद नहीं है  -आपको ब्राउज़र की जरुरत है .</string>
@@ -267,7 +267,7 @@
     <string name="per_app_profile_service_disabled">एप्प के अनुसार प्रोफाइल सर्विस बंद है. सेटिंग में जाके शुरू करें </string>
     <string name="usage_stats_disabled">पर ऐप्प प्रोफाइल के लिए आपका अभिक ऐप्प दिखना जरुरी है \n(बंद है )</string>
     <string name="usage_stats_needed_summary">उपभोगता के आचरण की जानकारी देने के लिए निचे दी हुई अनुमति प्रदान करना अनिवार्य </string>
-    <string name="backlight_dim">बैकलाइट डिम </string>
+    <string name="backlight_dim">बैकलाइट डिम</string>
     <string name="max_brightness_for_calibration">प्रख्यात डिस्प्ले अंशांकन करने के लिए </string>
     <string name="cooler">कूलर</string>
     <string name="warmer">वार्मर</string>
@@ -302,9 +302,9 @@
     <string name="auto_flashing">कर्नल फ़्लैश हो रहा …</string>
     <string name="magical_enhancements_incoming">जादुई चीजे आ रही है </string>
     <string name="kernel_download_error">कर्नल डाउनलोड होते समय कुछ बढ़ आयी है , माफ़ कीजिये कारन नहीं बता सकते !</string>
-    <string name="donate_description">फ्रांको मेनेजर  &amp; जनवरी २०१२ से उपलब्ध है ! इसको ५ साल हो गए लगातार सप्पोर्ट तथा अपडेट चालू है और अगले ५ साल तक भी चालू रहेंगे !</string>
-    <string name="donate_description_title">आप महान है\', धन्यवाद् !</string>
-    <string name="wifi_status">वाय-फ़ाय की स्तिथि </string>
+    <string name="donate_description">फ्रांको मेनेजर और अपडेटर जनवरी २०१२ से उपलब्ध है ! इसको ५ साल हो गए लगातार सप्पोर्ट तथा अपडेट चालू है और अगले ५ साल तक भी चालू रहेंगे !</string>
+    <string name="donate_description_title">आप महान है, धन्यवाद् !</string>
+    <string name="wifi_status">वाय-फ़ाय की स्तिथि</string>
     <string name="android_battery_saver">एनरोइड का बैटरी सेवर </string>
     <string name="location_mode">स्थान की स्तिथि </string>
     <string name="location_off">स्थान बंद  </string>
