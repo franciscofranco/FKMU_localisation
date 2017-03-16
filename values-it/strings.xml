@@ -235,10 +235,10 @@
     <string name="boot_service_toast_title">Boot service toast message</string>
     <string name="cpu_temp_notif_low_priority_summary_off">The notification icon is shown on the status bar when the CPU temperature service is running.</string>
     <string name="cpu_temp_notif_low_priority_summary_on">Status bar icon of CPU temperature notification is hidden</string>
-    <string name="cpu_temp_notif_low_priority_title">Notification priority</string>
-    <string name="navigation_bar_color_summary_off">The nav bar is black</string>
-    <string name="navigation_bar_color_summary_on">The navigation bar is colored based on the app primary color</string>
-    <string name="navigation_bar_color">Navigation bar coloring</string>
+    <string name="cpu_temp_notif_low_priority_title">Priorità delle notifiche</string>
+    <string name="navigation_bar_color_summary_off">La barra di navigazione é nera</string>
+    <string name="navigation_bar_color_summary_on">La barra di navigazione assume il colore primario dell'applicazione</string>
+    <string name="navigation_bar_color">Colore della barra di navigazione</string>
     <string name="global">Globale</string>
     <string name="ok">OK</string>
     <string name="name">Nome</string>
@@ -256,8 +256,8 @@
     <string name="low_power_cluster">Low power cluster</string>
     <string name="high_perf_cluster">High perf cluster</string>
     <string name="camera_mic_gain">Camera mic gain</string>
-    <string name="up_to_date_msg">Kernel version %1$s for the %2$s</string>
-    <string name="current_kernel_version">Your Kernel version: %1$s</string>
+    <string name="up_to_date_msg">Versione kernel %1$s per %2$s</string>
+    <string name="current_kernel_version">Versione del tuo kernel: %1$s</string>
     <string name="uh_oh">Uh oh!</string>
     <string name="your_device_not_supported">Il tuo dispositivo non é supportato da Franco Kernel</string>
     <string name="double_tap_to_wake_2">Double-tap-to-wake</string>
@@ -272,7 +272,7 @@
     <string name="cooler">Più freddo</string>
     <string name="warmer">Più caldo</string>
     <string name="blue_light_reduction_desc">Tonalità più calde permettono agli occhi di rilassarsi e rendono più facile addormentarsi</string>
-    <string name="no_description_yet">No description yet</string>
+    <string name="no_description_yet">Nessuna descrizione per ora</string>
     <string name="max_cpu_high_perf_cluster_desc">Maximum CPU frequency of your big cluster (A57 cores). Anything lower than the default will save you battery, but you\'ll lose performance</string>
     <string name="min_cpu_high_perf_cluster_desc">Minimum CPU frequency of your big cluster (A57 cores)</string>
     <string name="min_sample_time_desc">The minimum amount of time to spend at the current frequency before ramping down. This is to ensure that the governor has seen enough historic cpu load data to determine the appropriate workload</string>
@@ -289,7 +289,7 @@
     <string name="bluedroid_timer_ws_desc">Allows you to disable bluedroid wakelock.\n\nEnabled = the wakelock can be activated\nDisabled = the wakelock is disabled</string>
     <string name="temp_threshold_hmp">Big cluster thermal threshold</string>
     <string name="error_anykernel_flash">There was an error trying to flash the zip. *shrugs*</string>
-    <string name="automation">Automation</string>
+    <string name="automation">Automazione</string>
     <string name="copied_to_clipboard">Copiato negli appunti</string>
     <string name="automation_summary">You can use the \'actions\' below to apply the setting through automation apps - such as Tasker.\n\nTouch a row to copy its value to the clipboard to use with your favorite automation app</string>
     <string name="options">Opzioni</string>
@@ -317,7 +317,7 @@
     <string name="share">Condividi</string>
     <string name="checking_file_integrity">Controllo l'integrità del file</string>
     <string name="preparing_to_flash">Preparing to flash</string>
-    <string name="re_download">Re-download</string>
+    <string name="re_download">Scarica di nuovo</string>
     <string name="tunables">Tunables</string>
     <string name="naptime_ad">I also strongly suggest you install Naptime (https://play.google.com/store/apps/details?id=com.franco.doze), for free, to achieve the best battery life through out the day. Try it, you won\'t be disappointed!</string>
     <string name="bcl">BCL hotplug</string>
@@ -368,15 +368,15 @@
     <string name="sunlight">Sunlight</string>
     <string name="shadow">Shadow</string>
     <string name="automatic_hbm">Auto high brightness mode</string>
-    <string name="take_my_money">take my money</string>
+    <string name="take_my_money">prendi i miei soldi</string>
     <string name="connecting">Connecting…</string>
     <string name="night_shift_not_supported">Night Shift isn\'t supported on your device/Kernel configuration</string>
     <string name="hbm_not_supported">High brightness mode isn\'t supported by your device/Kernel configuration</string>
     <string name="gpu_governor">GPU governor</string>
-    <string name="rate_me">Rate me!</string>
-    <string name="android_battery_saver_title">Android Battery Saver</string>
+    <string name="rate_me">Valutami!</string>
+    <string name="android_battery_saver_title">Risparmio energetico di Android</string>
     <string name="android_battery_saver_summary_on">Automatically enabled when Power-saving profile is active</string>
-    <string name="android_battery_saver_summary_off">Default system behavior</string>
+    <string name="android_battery_saver_summary_off">Comportamento di sistema predefinito</string>
     <string name="battery_labs_title">Battery life labs</string>
     <string name="battery_life_labs_description">A set of simple suggestions &amp; hints to improve your device\'s battery life.\nClicking the cards will expand them showing useful information.\nThe overflow menu gives you options for the tips, or direct link to those sections</string>
     <string name="cpu_underclock">Underclock the CPU</string>
@@ -410,7 +410,7 @@
     <string name="very_high_lower_max_brightness">Massima luminosità ridotta dell'80%</string>
     <string name="apply_display_brightness_percentage">Apply %1$d%% lower max brightness</string>
     <string name="no_root_title">Permessi di root non disponibili</string>
-    <string name="no_root_message">Without root access none of the app\'s features will work and some of the initial states information will most likely show wrong information because, you guessed, there\'s no root access</string>
+    <string name="no_root_message">Senza permessi di root làapplicazione non funzionerà e parte delle informazioni sugli stati iniziali saranno falsate perché, hai indovinato, non hai permessi di root</string>
     <string name="close_the_app">Chiudi l'applicazione</string>
     <string name="applying">Applicando…</string>
     <string name="restoring">Ripristinando…</string>
