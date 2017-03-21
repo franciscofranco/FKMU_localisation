@@ -180,7 +180,7 @@
     <string name="profile_edit_success">Successfully edited!</string>
     <string name="per_app_profile_rename">Rinomina questo profilo</string>
     <string name="cancel">Cancella</string>
-    <string name="supported_device_no_kernel">Although your device is officially supported there\'s currently no FK available for your Android version just yet.\nMost likely coming soon™.\nCheck out the XDA thread below in the mean time to keep up with the latest developments</string>
+    <string name="supported_device_no_kernel">Sebbene il tuo dispositivo sia ufficialmente supportato, attualmente non c'è alcuna versione di Franco Kernel per la tua versione di Android.\nCon ogni probabilità, sarà rilasciata presto™.\nNel frattempo, dai un'occhiata alla discussione su XDA per avere aggiornamenti sugli ultimi sviluppi</string>
     <string name="double_tap_to_wake">Double tap to wake</string>
     <string name="vibrator_amp4">Intensità della vibrazione</string>
     <string name="boot_service_init">FK Manager &amp; Updater - applying set-on-boot settings</string>
