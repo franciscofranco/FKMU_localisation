@@ -430,4 +430,5 @@
     <string name="translate_summary">I want you to help me translate this app into more languages. Your name will be displayed in a contributors list for recognition</string>
     <string name="boot_service_init_delay">FK Manager &amp; Updater - applying \"set on boot\" settings in ~10 seconds</string>
     <string name="no_play_store">You need to have Google\'s Play Store installed</string>
+    <string name="locale_title">Language</string>
 </resources>
