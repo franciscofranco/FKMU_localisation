@@ -15,7 +15,7 @@
     <string name="no_internet_connection">Keine Internetverbindung</string>
     <string name="auto_flash">Auto Flash</string>
     <string name="download_zip">ZIP herunterladen</string>
-    <string name="changelog_title">änderungsprotoll</string>
+    <string name="changelog_title">Änderungsprotoll</string>
     <string name="share_kernel_msg_title">Neue Franco Kernel Version für das</string>
     <string name="share_kernel_sent_from">*Franco Kernel Manager &amp; Updater* ist die beste Untersützung für diesen Kernel</string>
     <string name="my_backups">Kernels</string>
@@ -317,7 +317,7 @@
     <string name="share">Teilen</string>
     <string name="checking_file_integrity">Inigrität der Datei wird überprüft</string>
     <string name="preparing_to_flash">Flashen wird vorbereitet</string>
-    <string name="re_download">Erneutes Herunterladen</string>
+    <string name="re_download">Erneut Herunterladen</string>
     <string name="tunables">Erweiterte Optionen (Tunables)</string>
     <string name="naptime_ad">Ich empfehle ihnen außerdem Naptime (https://play.google.com/store/apps/details?id=com.franco.doze) zu installieren, es ist kostenlos und sorgt für die beste Akkulaufzeit durch den Tag. Versuchen sie es, sie werden nicht enttäuscht sein!</string>
     <string name="bcl">BCL Hotplug</string>
