@@ -100,7 +100,7 @@
     <string name="fm_feature_5"> • Elimina files</string>
     <string name="fm_feature_6"> • Installa file.apk</string>
     <string name="input_boost_frequency">Inserisci la frequenza di boost</string>
-    <string name="max_gpu_freq">;assima frequenza GPU</string>
+    <string name="max_gpu_freq">Massima frequenza GPU</string>
     <string name="gpu_up_threshold">GPU up_threshold</string>
     <string name="gpu_down_threshold">GPU down_threshold</string>
     <string name="online_cores_threshold">Threshold dei core online</string>
