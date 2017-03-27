@@ -276,9 +276,10 @@
     <string name="max_cpu_high_perf_cluster_desc">CPU大核集群最高频率 (A57核心)。比默认频率低的任意频率都会节省电量，但是你会失去一点性能</string>
     <string name="min_cpu_high_perf_cluster_desc">CPU大核集群最低频率 (A57核心)</string>
     <string name="min_sample_time_desc">在逐渐降低之前在目前频率上花费的最少时间。保证足够的历史CPU负载数据来决定正确的工作负载</string>
-    <string name="hispeed_freq_desc">An intermediate \"hi speed\" at which to initially ramp when CPU load hits the value specified in go_hispeed_load.  If load stays high for the amount of time specified in above_hispeed_delay, then speed may be bumped higher</string>
-    <string name="go_hispeed_load_desc">The CPU load at which to ramp to the intermediate \"hi speed\"</string>
-    <string name="above_hispeed_delay_desc">Once speed is set to hispeed_freq, wait for this long before bumping speed higher in response to continued high load</string>    <string name="timer_rate_desc">在系统非空闲时取样来重新评价CPU负载</string>
+    <string name="hispeed_freq_desc">参见go_hispeed_load说明</string>
+    <string name="go_hispeed_load_desc">当负载达到go_hispeed_load, 且当前频率为最低频率时, CPU频率将瞬间上升到hispeed_freq。单位:%</string>
+    <string name="above_hispeed_delay_desc">若保持hispeed_freq超过一定时间(above_hispeed_delay), 且负载依然很高, CPU频率才会继续上升. </string>
+    <string name="timer_rate_desc">在系统非空闲时取样来重新评价CPU负载</string>
     <string name="gpu_control_desc">控制你GPU行为的参数，比如最高，最低频率，或是不同的调速器</string>
     <string name="sensor_ind_desc">让你禁止sensor_ind wakelock.\n\n启用=这个wakelock可以被激活\n禁用=这个wakelock已被禁用</string>
     <string name="msm_hsic_host_desc">让你禁止msm_hsic_host wakelock.\n\n启用=这个wakelock可以被激活\n禁用=这个wakelock已被禁用</string>
