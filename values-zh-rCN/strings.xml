@@ -39,7 +39,7 @@
     <string name="cpu_temperature">CPU温度</string>
     <string name="play_games">Play Games</string>
     <string name="download_path_title">刷机包保存路径</string>
-    <string name="disable_per_app_modes_service_title"单App配置服务</string>
+    <string name="disable_per_app_modes_service_title">单App配置服务</string>
     <string name="disable_per_app_modes_service_summary_on">服务已被禁用</string>
     <string name="disable_per_app_modes_toast_title">配置文件执行信息</string>
     <string name="disable_per_app_modes_toast_summary_on">配置执行时将不会有信息提示</string>
@@ -79,7 +79,7 @@
     <string name="omap_throttle_enable">OMAP过热降频保护</string>
     <string name="logcat_toggle">Logcat</string>
     <string name="blx">延长待机时间</string>
-    <string name="backlight_dimmer"更低的背光亮度</string>
+    <string name="backlight_dimmer">更低的背光亮度</string>
     <string name="backlight_min_brightness">最低背光亮度</string>
     <string name="headphones_gain">耳机音量增益</string>
     <string name="headset_gain">耳机音量增益（带话筒式耳机）</string>
@@ -331,7 +331,7 @@
     <string name="apps_with_profiles">已有配置的应用</string>
     <string name="apps_list">应用列表</string>
     <string name="night_shift">夜间模式</string>
-    <string name="night_shift_description">许多研究表明暴露在蓝光下会影响你的昼夜节律让你更难入睡。夜间模式将会在天黑以后自动调节你的显示颜色到色谱中较暖的那一端。这或许能帮你睡个安稳觉。</string>
+    <string name="night_shift_description">许多研究表明，暴露在蓝光下会影响你的昼夜节律，让你更难入睡。夜间模式将会在天黑以后，自动调节你的显示颜色到色谱中较暖的那一端。这或许能帮你睡个安稳觉。</string>
     <string name="scheduled">按日程开启</string>
     <string name="color_temperature">色温</string>
     <string name="from">从</string>
