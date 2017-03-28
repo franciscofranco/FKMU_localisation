@@ -122,7 +122,7 @@
     <string name="balance_title">Gebalanceerd</string>
     <string name="balance_description">Laadt de standaard Franco Kernel instellingen. Het is betrouwbaar en levert de beste resultaten op, zonder concessies in visuele prestaties</string>
     <string name="performance_title">Prestatiegericht</string>
-    <string name="performance_description">GPU draait constant op de maximale kloksnelheid, invoer accelaratieduur en klokfrequentie zijn toegenomen. Soepel!</string>
+    <string name="performance_description">GPU draait constant op de maximale kloksnelheid, invoeracceleratie duur en frequentie zijn toegenomen. Soepel!</string>
     <string name="new_profile_hint">Profielnaam</string>
     <string name="disable_per_app_modes_service_summary_off">De service is ingeschakeld</string>
     <string name="device">Apparaat</string>
@@ -180,7 +180,7 @@
     <string name="profile_edit_success">Succesvol aangepast!</string>
     <string name="per_app_profile_rename">Hernoem dit profiel</string>
     <string name="cancel">Annuleren</string>
-    <string name="supported_device_no_kernel">Alhoewel je apparaat officieel wordt ondersteund is er momenteel nog geen FK beschikbaar voor je Android versie.\nHoogstwaarschijnlijk binnenkort beschikbaar™.\nBekijk ondertussen het onderstaande XDA artikel om op de hoogte te blijven van de laatste ontwikkelingen</string>
+    <string name="supported_device_no_kernel">Alhoewel je apparaat officieel wordt ondersteund is er momenteel nog geen FK beschikbaar voor je Android versie.\nHoogstwaarschijnlijk binnenkort beschikbaar™.\nBekijk ondertussen het onderstaande XDA thread om op de hoogte te blijven van de laatste ontwikkelingen</string>
     <string name="double_tap_to_wake">Dubbel-tik om te ontwaken</string>
     <string name="vibrator_amp4">Vibrator sterkte</string>
     <string name="boot_service_init">FK Manager &amp; Updater - instellen-bij-opstarten instellingen toepassen</string>
@@ -194,7 +194,7 @@
     <string name="new_directory">Nieuwe map</string>
     <string name="new_directory_hint">Nieuwe map\'s naam</string>
     <string name="led_max_brightness">Opladen LED</string>
-    <string name="xda_card_summary">Franco Kernel artikel voor je apparaat</string>
+    <string name="xda_card_summary">Franco Kernel thread voor jouw apparaat</string>
     <string name="xda_card_title">XDA-Developers</string>
     <string name="file_name_already_exists">Een bestand met deze naam bestaat al</string>
     <string name="battery_service_level">Accubesparing</string>
@@ -217,7 +217,7 @@
     <string name="min_time_cpu_online">Minimale tijd in seconden dat een kern online blijft om onnodige online/offline oproepen te voorkomen. Waarde is in seconden.</string>
     <string name="timer">Monstertimer in seconden. De standaardwaarde van 1 is gelijk aan 10 monsters per seconde. De hoger de waarde, de minder monsters per seconde.</string>
     <string name="hue">Tint</string>
-    <string name="invert">Color inversie</string>
+    <string name="invert">Kleurinversie</string>
     <string name="saturation">Saturatie</string>
     <string name="display_value">Weergave waarde</string>
     <string name="set_on_boot_toast_summary_off">Er wordt geen toastbericht getoond wanneer je een instellen bij opstarten schakelaar schakelt</string>
@@ -291,7 +291,7 @@
     <string name="error_anykernel_flash">Er was een fout tijdens het flashen van de zip. *haalt schouders op*</string>
     <string name="automation">Automatisering</string>
     <string name="copied_to_clipboard">Gekopieerd naar klembord</string>
-    <string name="automation_summary">Je kan de onderstaande \'acties\' gebruiken om de instellingen toe te passen via automatisering apps - zoals Tasker.\n\nTik een rij aan om de waarde te kopieren naar het klembord en te gebruiken met je favoriete automatisering app</string>
+    <string name="automation_summary">Je kan de onderstaande \'acties\' gebruiken om de instellingen toe te passen via automatiseringsapps - zoals Tasker.\n\nTik een rij aan om de waarde te kopieren naar het klembord en te gebruiken met je favoriete automatiseringsapp</string>
     <string name="options">Opties</string>
     <string name="compatible_apps">Compatibele apps</string>
     <string name="open">Open</string>
@@ -375,7 +375,7 @@
     <string name="gpu_governor">GPU governor</string>
     <string name="rate_me">Waardeer me!</string>
     <string name="android_battery_saver_title">Android Accubesparing</string>
-    <string name="android_battery_saver_summary_on">Automatisch inschakelen wanneer Accubesparingsprofiel actief is</string>
+    <string name="android_battery_saver_summary_on">Automatisch inschakelen wanneer Energiebesparingsprofiel actief is</string>
     <string name="android_battery_saver_summary_off">Standaard systeemgedrag</string>
     <string name="battery_labs_title">Accuduur lab</string>
     <string name="battery_life_labs_description">Een simpele set suggesties &amp; tips om je apparaat\'s accuduur te verbeteren.\nDe kaarten aantikken om uitgebreide bruikbare informatie te tonen.\nDe menuknop geeft je opties voor de tips, of een directe link naar de betreffende secties.</string>
@@ -386,12 +386,12 @@
     <string name="tips">Tips</string>
     <string name="gpu_underclock">Onderklok de GPU</string>
     <string name="gpu_underclock_description">De meeste handelingen benodigen niet echt GPU rekenkracht, maar iedere keer dat de weergavebuffer ververst, wordt de GPU kern gewekt. Sommige implementaties doen zelfs de GPU toenemen bij iedere aanraking. Het verlagen van de maximale GPU kloksnelheid kan ook stroomconsumptie verminderen, zonder haperingen als gevolg</string>
-    <string name="performance_profile_power_saving">Accubesparingsprofiel</string>
+    <string name="performance_profile_power_saving">Energiebesparingsprofiel</string>
     <string name="performance_profile_power_saving_description">Strak geïntegreerd met FK, dit profiel wijzigt de CPU, GPU, invoeracceleratie frequentie en duur, en soms (afhankelijk van het apparaat) wijzigt het governor parameters. Dit profiel is erg aggressief en je zou hier en daar wat haperingen kunnen ervaren, maar de stroomconsumptie tijdens scherm aan zal drastisch minder zijn</string>
     <string name="auto_sync">Auto-sync uitschakelen</string>
-    <string name="auto_sync_description">Het uitschakelen van automatische achtergrondsynchronisatie kent twee kanten. Uitschakelen zal het aantal onnodige standby ontwakingen verminderen (wanneer doze niet actief is), maar je verliest een paar functies, zoals meldingen voor nieuwe e-mails wanneer deze arriveren in je mailbox, en andere functies die constant online services back-uppen/queryen. Het is afhankelijk van je gebruik en behoeften</string>
+    <string name="auto_sync_description">Het uitschakelen van automatische achtergrondsynchronisatie kent twee kanten. Uitschakelen zal het aantal onnodige standby ontwakingen verminderen (wanneer doze niet actief is), maar je verliest een paar functies, zoals meldingen voor nieuwe e-mails wanneer deze arriveren in je mailbox, en andere functies die constant online services back-uppen/queryen. Het is afhankelijk van je gebruik en behoeftes</string>
     <string name="per_app_profiles">Per-App Profielen maken</string>
-    <string name="per_app_profiles_description">Als je diep in het konijnenhol wilt gaan, kan je aangepaste profielen maken en toepassen op een per-app basis.\nSocial media, maps, nieuws, of over het algemeen alles tekstgebaseerd zonder vreemde elementen of gekke animaties, zal prima functioneren op een beperkend profiel. Sinds deze kunnen worden toegepast per app, kan je je systeem altijd op de standaarden laten, en dan wanneer je een profielgebonden app opent, bijvoorbeeld berichten (sms), zal het profiel intreden en je instellingen toepassen terwijl je het gebruikt. Zodra je de app verlaat, gaan de instellingen terug naar standaard.\nHet is erg krachtig en je kan een heel unieke persoonlijke ervaring maken</string>
+    <string name="per_app_profiles_description">Als je diep in het konijnenhol wilt duiken, kan je aangepaste profielen maken en toepassen op een per-app basis.\nSocial media, maps, nieuws, of over het algemeen alles tekstgebaseerd zonder vreemde elementen of gekke animaties, zal prima functioneren op een beperkend profiel. Sinds deze kunnen worden toegepast per app, kan je je systeem altijd op de standaarden laten, en dan wanneer je een profielgebonden app opent, bijvoorbeeld berichten (sms), zal het profiel intreden en je instellingen wijzigen tijdens het gebruikt. Zodra je de app verlaat, gaan de instellingen terug naar standaard.\nHet is erg krachtig en je kan een heel unieke persoonlijke ervaring maken</string>
     <string name="naptime_description">Met Naptime, door de \"Aggressieve doze\" optie te activeren, zal Doze intreden zodra het scherm uit is EN het zal je sensoren uitschakelen zodat Doze niet wordt beëindigd wanneer je beweegt. Wanneer je scherm aan gaat, gaat alles terug naar normaal. Het is net magie, die je voorziet van een geweldige standby accuduur</string>
     <string name="naptime">Installeer Naptime</string>
     <string name="create">Maken</string>
@@ -403,7 +403,7 @@
     <string name="medium_cpu_underclock">50% stroomvermindering</string>
     <string name="high_cpu_underclock">75% stroomvermindering</string>
     <string name="lower_max_brightness">Verlaag max helderheid</string>
-    <string name="lower_max_brightness_description">Het scherm is één van de twee componenten die het meeste stroom verbruikt. Zelfs met aanpasbare helderheid zal het paneel hoge nits van licht behalen, soms onnodig. Door de maximale waarde te verlagen kan je wat kostbare accuduur besparen voor wanneer je het nodig hebt</string>
+    <string name="lower_max_brightness_description">Het scherm is één van de twee componenten die de meeste stroom verbruikt. Zelfs met aanpasbare helderheid zal het paneel hoge nits van licht behalen, soms onnodig. Door de maximale waarde te verlagen kan je wat kostbare accuduur besparen voor wanneer je het nodig hebt</string>
     <string name="low_lower_max_brightness">20% lagere max helderheid</string>
     <string name="medium_lower_max_brightness">40% lagere max helderheid</string>
     <string name="high_lower_max_brightness">60% lagere max helderheid</string>
@@ -430,4 +430,5 @@
     <string name="translate_summary">Ik wil je vragen mij te helpen bij het vertalen van deze app. Je naam wordt getoond in een bijdragerslijst voor erkenning</string>
     <string name="boot_service_init_delay">FK Manager &amp; Updater - \"instellen bij opstarten\" instellingen toepassen in ~10 seconden</string>
     <string name="no_play_store">Je moet Google\'s Play Store geïnstalleerd hebben</string>
+    <string name="locale_title">Taal</string>
 </resources>
