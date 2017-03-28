@@ -122,7 +122,7 @@
     <string name="balance_title">Gebalanceerd</string>
     <string name="balance_description">Laadt de standaard Franco Kernel instellingen. Het is betrouwbaar en levert de beste resultaten op, zonder concessies in visuele prestaties</string>
     <string name="performance_title">Prestatiegericht</string>
-    <string name="performance_description">GPU draait constant op de maximale kloksnelheid, invoer accelaratieduur en klokfrequentie zijn toegenomen. Soepel!</string>
+    <string name="performance_description">GPU draait constant op de maximale kloksnelheid, invoeracceleratie duur en frequentie zijn toegenomen. Soepel!</string>
     <string name="new_profile_hint">Profielnaam</string>
     <string name="disable_per_app_modes_service_summary_off">De service is ingeschakeld</string>
     <string name="device">Apparaat</string>
@@ -389,9 +389,9 @@
     <string name="performance_profile_power_saving">Energiebesparingsprofiel</string>
     <string name="performance_profile_power_saving_description">Strak geïntegreerd met FK, dit profiel wijzigt de CPU, GPU, invoeracceleratie frequentie en duur, en soms (afhankelijk van het apparaat) wijzigt het governor parameters. Dit profiel is erg aggressief en je zou hier en daar wat haperingen kunnen ervaren, maar de stroomconsumptie tijdens scherm aan zal drastisch minder zijn</string>
     <string name="auto_sync">Auto-sync uitschakelen</string>
-    <string name="auto_sync_description">Het uitschakelen van automatische achtergrondsynchronisatie kent twee kanten. Uitschakelen zal het aantal onnodige standby ontwakingen verminderen (wanneer doze niet actief is), maar je verliest een paar functies, zoals meldingen voor nieuwe e-mails wanneer deze arriveren in je mailbox, en andere functies die constant online services back-uppen/queryen. Het is afhankelijk van je gebruik en behoeften</string>
+    <string name="auto_sync_description">Het uitschakelen van automatische achtergrondsynchronisatie kent twee kanten. Uitschakelen zal het aantal onnodige standby ontwakingen verminderen (wanneer doze niet actief is), maar je verliest een paar functies, zoals meldingen voor nieuwe e-mails wanneer deze arriveren in je mailbox, en andere functies die constant online services back-uppen/queryen. Het is afhankelijk van je gebruik en behoeftes</string>
     <string name="per_app_profiles">Per-App Profielen maken</string>
-    <string name="per_app_profiles_description">Als je diep in het konijnenhol wilt duiken, kan je aangepaste profielen maken en toepassen op een per-app basis.\nSocial media, maps, nieuws, of over het algemeen alles tekstgebaseerd zonder vreemde elementen of gekke animaties, zal prima functioneren op een beperkend profiel. Sinds deze kunnen worden toegepast per app, kan je je systeem altijd op de standaarden laten, en dan wanneer je een profielgebonden app opent, bijvoorbeeld berichten (sms), zal het profiel intreden en je instellingen toepassen terwijl je het gebruikt. Zodra je de app verlaat, gaan de instellingen terug naar standaard.\nHet is erg krachtig en je kan een heel unieke persoonlijke ervaring maken</string>
+    <string name="per_app_profiles_description">Als je diep in het konijnenhol wilt duiken, kan je aangepaste profielen maken en toepassen op een per-app basis.\nSocial media, maps, nieuws, of over het algemeen alles tekstgebaseerd zonder vreemde elementen of gekke animaties, zal prima functioneren op een beperkend profiel. Sinds deze kunnen worden toegepast per app, kan je je systeem altijd op de standaarden laten, en dan wanneer je een profielgebonden app opent, bijvoorbeeld berichten (sms), zal het profiel intreden en je instellingen wijzigen tijdens het gebruikt. Zodra je de app verlaat, gaan de instellingen terug naar standaard.\nHet is erg krachtig en je kan een heel unieke persoonlijke ervaring maken</string>
     <string name="naptime_description">Met Naptime, door de \"Aggressieve doze\" optie te activeren, zal Doze intreden zodra het scherm uit is EN het zal je sensoren uitschakelen zodat Doze niet wordt beëindigd wanneer je beweegt. Wanneer je scherm aan gaat, gaat alles terug naar normaal. Het is net magie, die je voorziet van een geweldige standby accuduur</string>
     <string name="naptime">Installeer Naptime</string>
     <string name="create">Maken</string>
@@ -430,4 +430,5 @@
     <string name="translate_summary">Ik wil je vragen mij te helpen bij het vertalen van deze app. Je naam wordt getoond in een bijdragerslijst voor erkenning</string>
     <string name="boot_service_init_delay">FK Manager &amp; Updater - \"instellen bij opstarten\" instellingen toepassen in ~10 seconden</string>
     <string name="no_play_store">Je moet Google\'s Play Store geïnstalleerd hebben</string>
+    <string name="locale_title">Taal</string>
 </resources>
