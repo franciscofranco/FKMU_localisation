@@ -71,7 +71,7 @@
     <string name="auto_flash_success">Automatsko flashanje uspješno!</string>
     <string name="download_complete">Preuzimanje je završeno!</string>
     <string name="io_scheduler">I/O raspoređivač</string>
-    <string name="temp_threshold">Termalni pragovi procesora</string>
+    <string name="temp_threshold">Termalne granice procesora</string>
     <string name="fsync">I/O fsync</string>
     <string name="vibrator_amp">Pojačalo vibratora</string>
     <string name="usb_fast_charge">USB brzo punjenje</string>
@@ -423,7 +423,7 @@
     <string name="max_panel_brightness">Maksimalna svjetlina zaslona</string>
     <string name="max_panel_brightness_summary">100%</string>
     <string name="display_max_brightness_error">Vrijednost mora biti veća od 0, a maksimalna je 100</string>
-    <string name="disabled_wakelock">This wakelock is disabled and it\'s blocked from running to maximize battery life</string>
+    <string name="disabled_wakelock">Ovaj wakelock je onemogućen i blokiran da bi se maksimiziralo trajanje baterije</string>
     <string name="enabled_wakelock">Omogućeno ali moguće je da smanji trajanje baterije tijekom ugašenog ekrana</string>
     <string name="no_backups_found">Nema sigurnosnih kopija</string>
     <string name="translate_title">Pomozite mi s prijevodima!</string>
