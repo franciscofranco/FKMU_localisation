@@ -122,7 +122,7 @@
     <string name="balance_title">Balansirano</string>
     <string name="balance_description">Učitava zadane postavke Franco kernela. To je sigurna luka i imat ćete najbolje rezultate bez vidljivog kompromisa u brzini</string>
     <string name="performance_title">Performanse</string>
-    <string name="performance_description">Grafički procesor radi na svojoj najvišoj frekvenciji cijelo vrijeme, a trajanje ulaznog boosta i frekvencije su povećane. Ko' podmazano!</string>
+    <string name="performance_description">Grafički procesor radi na svojoj najvišoj frekvenciji cijelo vrijeme, a trajanje ulaznog boosta i frekvencije su povećane. Ko\' podmazano!</string>
     <string name="new_profile_hint">Ime profila</string>
     <string name="disable_per_app_modes_service_summary_off">Servis je omogućen</string>
     <string name="device">Uređaj</string>
