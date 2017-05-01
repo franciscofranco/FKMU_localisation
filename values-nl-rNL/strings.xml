@@ -34,7 +34,7 @@
     <string name="auto_reboot_summary_off">Het apparaat zal niet automatisch herstarten na een auto-flash</string>
     <string name="new_kernel_notify_title">Nieuwe kernel auto-melding</string>
     <string name="new_kernel_notify_summary_on">Controleer iedere 24 uur op nieuwe FK updates</string>
-    <string name="new_kernel_notify_summary_off">Niet automatisch op kernelupdates controleren</string>
+    <string name="new_kernel_notify_summary_off">Niet automatisch op kernel updates controleren</string>
     <string name="per_app_modes">Per-app profielen</string>
     <string name="cpu_temperature">CPU temperatuur</string>
     <string name="play_games">Play Games</string>
