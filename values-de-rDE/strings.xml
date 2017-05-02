@@ -17,7 +17,7 @@
     <string name="download_zip">ZIP herunterladen</string>
     <string name="changelog_title">Änderungsprotokoll</string>
     <string name="share_kernel_msg_title">Neue Franco Kernel Version für das</string>
-    <string name="share_kernel_sent_from">*Franco Kernel Manager &amp; Updater* ist die beste Begleit App für diesen Kernel</string>
+    <string name="share_kernel_sent_from">*Franco Kernel Manager &amp; Updater* ist die beste Begleit-App für diesen Kernel</string>
     <string name="my_backups">Kernels</string>
     <string name="max_cpu_freq">max. CPU Frequenz</string>
     <string name="min_cpu_freq">min. CPU Frequenz</string>
@@ -53,7 +53,7 @@
     <string name="play_games_sign_in_summary_off">Nicht angemeldet</string>
     <string name="play_games_sign_in_summary_on">Sie sind angemeldet</string>
     <string name="achievements_title">Erfolge</string>
-    <string name="achievements_summary">Betrachte deinen Fortschritt</string>
+    <string name="achievements_summary">Betrachten sie Ihren Fortschritt</string>
     <string name="kernel_up_to_date">Sie sind auf dem aktuellsten Stand!</string>
     <string name="kernel_update_available">Update verfügbar!</string>
     <string name="downloading">Herunterladen %1$s%2$s</string>
@@ -134,8 +134,8 @@
     <string name="communities">G+ FK Community</string>
     <string name="rgb_calibration">RGB Anpassungen</string>
     <string name="rgb_title">RGB Anpassungen</string>
-    <string name="rgb_summary">Verändere sie die Temperatur ihrer Bildschirmfarbe.</string>
-    <string name="gamma_calibration_title">GAMMA Anpassungen</string>
+    <string name="rgb_summary">Verändere sie die Farbtemperatur ihres Bildschirms.</string>
+    <string name="gamma_calibration_title">Gamma Anpassungen</string>
     <string name="gamma_calibration_summary">Gamma Kurve des Displays anpassen.</string>
     <string name="performance_profiles_no_root">Der Rootzugriff fehlt oder ist beschädigt. Diese Funktionen stehen ihnen nicht zur Verfügung solange das Problem besteht</string>
     <string name="performance_profiles_empty_view">Ihr Kernel unterstützt diese Funktion nicht. Es wird bald zur Verfügung stehen</string>
@@ -156,9 +156,9 @@
     <string name="item_purchase_success">Ich danke ihnen SO sehr dafür, sie sind großartig! Schicken sie mir eine E-Mail, damit ich ihnen \"persönlich\" danken kann :)</string>
     <string name="max_cpu_info">Maximal erreichbare CPU-Taktfrequenz. Alles unter dem Standardwert wird Energie sparen, aber die Leistung wird vermindert werden</string>
     <string name="min_cpu_info">Dies ist die minimale CPU-Taktfrequenz die unterstützt wird</string>
-    <string name="cur_governor_info">Der Governor ist der Teil des Codes, der die CPU-Taktfrequenzen anhand der momentanen Systemlast festlegt. Der Standardgovernor ist normalerweise der Empfohlene</string>
-    <string name="voltages_info">Elektrische Spannungslevel für CPU-Taktfrequenz Schritte. Geringere Werte senken die Systemtemperatur in Stressszenarien, aber können zu Instabilität verursachen. Finden sie ihren Optimalwert, alle Chips verwenden unterschiedliche Spannungen</string>
-    <string name="governor_tunables_info">Konfigurationsdateien für ihren Governor. Diese geben ihnen große Macht über ihre CPU-Konfiguration und wie die Frequenzen, anhand dieser Regeln, skalieren. Dies ist für fortgeschrittene Benutzer</string>
+    <string name="cur_governor_info">Der Gouverneur ist der Teil des Codes, der die CPU-Taktfrequenzen anhand der momentanen Systemlast festlegt. Der Standardgouverneur ist normalerweise der Empfohlene</string>
+    <string name="voltages_info">Elektrische Spannungslevel für CPU-Taktfrequenz Schritte. Geringere Werte senken die Systemtemperatur in Stressszenarien, aber können zu Instabilität führen. Finden sie ihren Optimalwert, alle Chips verwenden unterschiedliche Spannungen</string>
+    <string name="governor_tunables_info">Konfigurationsdateien für ihren Gouverneur. Diese geben ihnen große Macht über ihre CPU-Konfiguration und wie die Frequenzen, anhand dieser Regeln, skalieren. Dies ist für fortgeschrittene Benutzer</string>
     <string name="cpu_boost_info">Satz von Elementen für Qualcomm Geräte um einige CPU-Parameter zu konfigurieren. Für fortgeschrittene Benutzer.</string>
     <string name="gpu_info">Satz von Parametern für die GPU. Für fortgeschrittene Benutzer</string>
     <string name="hotplug_control_info">Satz von Parametern um meinem Hotplug-Treiber zu kontrollieren, welcher kontrolliert wie die CPU-Kerne sich bei Systembelastung und anderen Variablen verhalten. Für fortgeschrittene Benutzer.</string>
@@ -223,13 +223,13 @@
     <string name="set_on_boot_toast_summary_off">Eine Toastnachricht wird nicht gezeigt, wenn der aktiviere nach Systemstart Schalter umgeschaltet wird</string>
     <string name="set_on_boot_toast_summary_on">Eine Nachricht wird angezeigt jedes Mal, wenn sie eine Einstellung setzen, welche nach einem Neustart wiedergestellt werden soll</string>
     <string name="set_on_boot_toast_title">Aktiviere nach Systemstart Toastnachricht</string>
-    <string name="error_in_app_payment">Es gab ein Fehler beim Kontakt mit dem Google Play Dienst. Versuche es erneut</string>
+    <string name="error_in_app_payment">Es gab ein Fehler beim Kontakt mit dem Google Play Dienst. Versuchen sie es erneut</string>
     <string name="donate_title">Spendenpakete</string>
-    <string name="donate_summary">Wenn du der Meinung bist, dass ich einige Spielereien für meinen weiterlaufende Anstrengung verdiene</string>
+    <string name="donate_summary">Wenn sie der Meinung sind, dass ich einige Spielereien für meinen weiterlaufende Anstrengung verdiene</string>
     <string name="theme">Thema</string>
     <string name="app_theme">Anwendungsthema</string>
     <string name="theme_donate_title">Dunkles Thema unterstützen!</string>
-    <string name="theme_donate_summary">Entscheide dich für eine kleine Spende für das dunkle Design. Für $1/1€ Gibt es ein Achievement und dieser nervige Dialog wird deaktiviert!</string>
+    <string name="theme_donate_summary">Entscheiden Sie sich für eine kleine Spende für das dunkle Design. Für $1/1€ Gibt es ein Achievement und dieser nervige Dialog wird deaktiviert!</string>
     <string name="boot_service_toast_summary_off">Es werden keine Toast Nachrichten angezeigt wenn der Boot Service nach einem Neustart startet.</string>
     <string name="boot_service_toast_summary_on">Eine Toast Nachricht kündigt an, dass der Boot Service nach einem Neustart startet</string>
     <string name="boot_service_toast_title">Systemstartdienst Toastnachricht</string>
@@ -249,10 +249,10 @@
     <string name="profile_length_warning">Name zu lang (max 15 Zeichen)</string>
     <string name="profile_separator_warning">Der Name darf keine Schrägstriche enthalten</string>
     <string name="profile_empty_warning">Das Profil darf nicht unbenannt sein</string>
-    <string name="profile_default_exists_warning">Der gewählte Name existiert bereits. Bitte wähle einen anderen Namen</string>
+    <string name="profile_default_exists_warning">Der gewählte Name existiert bereits. Bitte wählen Sie einen anderen Namen</string>
     <string name="new_name">Neuer Name</string>
     <string name="set">Setzen</string>
-    <string name="no_activity_exception">Die benötigte App ist nicht installiert - Du brauchst einen Browser.</string>
+    <string name="no_activity_exception">Die benötigte App ist nicht installiert - Sie brauchen einen einen Browser.</string>
     <string name="low_power_cluster">Niedrigenergie cluster</string>
     <string name="high_perf_cluster">Hoch perfomantes cluster</string>
     <string name="camera_mic_gain">Kameramikrofon-Verstärkung</string>
@@ -291,7 +291,7 @@
     <string name="error_anykernel_flash">Es gab einen Fehler bei dem Versuch das ZIP zu flashen. *shrugs*</string>
     <string name="automation">Automatisierung</string>
     <string name="copied_to_clipboard">In die Zwischenablage kopiert</string>
-    <string name="automation_summary">Sie könne \'Aktionen\' benutzen um Einstellungen mithilfe von Automatisierungsanwendungen - wie z.B. Tasker - anzuwenden.\n\nTippen sie auf eine reihe um den Wert in die Zwischenablage zu kopieren und in ihrer Lieblingsanwendung einzufügen</string>
+    <string name="automation_summary">Sie können \'Aktionen\' benutzen um Einstellungen mithilfe von Automatisierungsanwendungen - wie z.B. Tasker - anzuwenden.\n\nTippen sie auf eine reihe um den Wert in die Zwischenablage zu kopieren und in ihrer Lieblingsanwendung einzufügen</string>
     <string name="options">Optionen</string>
     <string name="compatible_apps">Kompatible Apps</string>
     <string name="open">öffnen</string>
@@ -302,8 +302,8 @@
     <string name="auto_flashing">Flashe den Kernel…</string>
     <string name="magical_enhancements_incoming">Magische Verbesserungen sind auf dem Weg</string>
     <string name="kernel_download_error">Es gab einen Fehler beim Herunterladen des Kernels - die Ursache kann nicht bestimmt werden - Tut mir leid!</string>
-    <string name="donate_description">FK Manager &amp; Updater existieren seit Januar 2012! Es waren 5 Jahre von fortwährendem Supoort und Aktualisierungen. Auf in die nächsten 5 Jahre!</string>
-    <string name="donate_description_title">Du bist großartig, vielen Dank!</string>
+    <string name="donate_description">FK Manager &amp; Updater existieren seit Januar 2012! Es waren 5 Jahre fortwährender Supoort und Aktualisierungen. Auf in die nächsten 5 Jahre!</string>
+    <string name="donate_description_title">Sie sind großartig, vielen Dank!</string>
     <string name="wifi_status">WLAN-Status</string>
     <string name="android_battery_saver">Android Energiesparmodus</string>
     <string name="location_mode">Standortmodus</string>
@@ -315,11 +315,11 @@
     <string name="kernel_params">Kernel Parameter</string>
     <string name="how_to">how to</string>
     <string name="share">Teilen</string>
-    <string name="checking_file_integrity">Inigrität der Datei wird überprüft</string>
+    <string name="checking_file_integrity">Integrität der Datei wird überprüft</string>
     <string name="preparing_to_flash">Flashen wird vorbereitet</string>
     <string name="re_download">Erneut Herunterladen</string>
     <string name="tunables">Erweiterte Optionen (Tunables)</string>
-    <string name="naptime_ad">Ich empfehle ihnen außerdem Naptime (https://play.google.com/store/apps/details?id=com.franco.doze) zu installieren, es ist kostenlos und sorgt für die beste Akkulaufzeit durch den Tag. Versuchen sie es, sie werden nicht enttäuscht sein!</string>
+    <string name="naptime_ad">Ich empfehle Ihnen außerdem Naptime (https://play.google.com/store/apps/details?id=com.franco.doze) zu installieren, es ist kostenlos und sorgt für die beste Akkulaufzeit durch den Tag. Versuchen sie es, sie werden nicht enttäuscht sein!</string>
     <string name="bcl">BCL Hotplug</string>
     <string name="display_resolution">Bilschirmauflösung</string>
     <string name="native_resolution">Nativ</string>
@@ -344,7 +344,7 @@
     <string name="save_profile">Speichern</string>
     <string name="profiles">Profile</string>
     <string name="unchanged">Unverändert</string>
-    <string name="display_profile_set_on_boot">Stelle ein Bildschirmprofil nach einem Systemstart wieder her</string>
+    <string name="display_profile_set_on_boot">Stellen sie ein Bildschirmprofil nach einem Systemstart wieder her</string>
     <string name="no_profile_applied">Sie müssen ein Bildschirmprofil anwenden bevor sie es beim Systemstart einstellen können.</string>
     <string name="display_profile_title_new">Neues Bildschirmfarbenprofil</string>
     <string name="display_profile_hint_new">profil_name</string>
@@ -368,7 +368,7 @@
     <string name="sunlight">Sonnenlicht</string>
     <string name="shadow">Schatten</string>
     <string name="automatic_hbm">Automatischer Hohe-Helligkeits-Modus</string>
-    <string name="take_my_money">take my money</string>
+    <string name="take_my_money">nehme mein Geld</string>
     <string name="connecting">Verbinde…</string>
     <string name="night_shift_not_supported">Nachtlicht ist auf diesem Gerät/Kernel nicht unterstützt</string>
     <string name="hbm_not_supported">Hohe-Helligkeits-Modus ist auf diesem Gerät/Kernel nicht unterstützt</string>
@@ -385,7 +385,7 @@
     <string name="apply_percentage">%1$d%% geringere Taktung</string>
     <string name="tips">Tipps</string>
     <string name="gpu_underclock">GPU untertakten</string>
-    <string name="gpu_underclock_description">Die meisen Operationen brauchen nicht viel GPU-Rechenleistung, aber jedes Mal, wenn der Framebuffer neulädt müssen die GPU-Kerne aus demSchlaf aufwachen. Einige Implementationen belasten sogar die GPU bei jeder Berührungseingabe. Eine Verminderung des maximalen GPU-Takts kann den Energieverbrauch deutlich vermindern ohne negative Auswirkungen.</string>
+    <string name="gpu_underclock_description">Die meisen Operationen brauchen nicht viel GPU-Rechenleistung, aber jedes Mal, wenn der Framebuffer neulädt müssen die GPU-Kerne aus dem Schlaf aufwachen. Einige Implementationen belasten sogar die GPU bei jeder Berührungseingabe. Eine Verminderung des maximalen GPU-Takts kann den Energieverbrauch deutlich vermindern ohne negative Auswirkungen.</string>
     <string name="performance_profile_power_saving">Energiesparprofil</string>
     <string name="performance_profile_power_saving_description">Tief in FK integriert kann dieses Profil die CPU, GPU, Eingabe-Boost-Frequenz und Dauer und manchmal (abhängig vom Gerät) auch den Governor ändern. Dieses Profil ist sehr aggressiv und sie merken eventuell Auswirkungen hier und da, aber die Verminderung des Energieverbrauchs während des angeschalteten Bildschirms werden immens sein.</string>
     <string name="auto_sync">Automatische Synchronisation deaktivieren</string>
@@ -426,7 +426,7 @@
     <string name="disabled_wakelock">Dieser Wakelock ist deaktiviert und dies blockiert die maximale Akkulaufzeit.</string>
     <string name="enabled_wakelock">Aktiviert aber könnte möglicherweise zu einer Verkürzung der Akkulaufzeit, während abgeschaltetem Bildschirm, führen.</string>
     <string name="no_backups_found">Keine Sicherungen gefunden</string>
-    <string name="translate_title">Hilf mir mit den Übersetzungen!</string>
+    <string name="translate_title">Helfen Sie mir mit den Übersetzungen!</string>
     <string name="translate_summary">Ich möchte, dass sie mir helfen diese App in mehr Sprachen zu übersetzen. Ihr Name wird in der Contributerliste für Wiedererkennung auftauchen.</string>
     <string name="boot_service_init_delay">FK Manager &amp; Updater - anwenden der \"set on boot\" Einstellungen in ~10 Sekunden</string>
     <string name="no_play_store">Sie müssen den Google Play Store Installiert haben.</string>
