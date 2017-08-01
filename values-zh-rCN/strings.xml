@@ -345,7 +345,7 @@
     <string name="profiles">配置文件</string>
     <string name="unchanged">没有改变</string>
     <string name="display_profile_set_on_boot">开机加载显示配置文件</string>
-    <string name="no_profile_applied">你必须在打开\"开机后自动应用\"之前应用用一个配置文件</string>
+    <string name="no_profile_applied">你必须在打开\"开机后自动应用\"之前应用一个配置文件</string>
     <string name="display_profile_title_new">新建显示配置文件</string>
     <string name="display_profile_hint_new">配置名称</string>
     <string name="display_off_profile_warning">启用配置文件，你需要先息屏再亮屏</string>
