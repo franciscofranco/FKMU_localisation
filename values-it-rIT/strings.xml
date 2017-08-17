@@ -54,7 +54,7 @@
     <string name="play_games_sign_in_summary_on">Hai effettuato l\'accesso</string>
     <string name="achievements_title">Obiettivi</string>
     <string name="achievements_summary">Controlla il tuo progresso</string>
-    <string name="kernel_up_to_date">Il kernel non è aggiornato!</string>
+    <string name="kernel_up_to_date">Il kernel è aggiornato!</string>
     <string name="kernel_update_available">Aggiornamento disponibile!</string>
     <string name="downloading">Sto scaricando %1$s%2$s</string>
     <string name="calculating">Dei simpatici gnomi stanno calcolando il tempo rimanente per il download</string>
