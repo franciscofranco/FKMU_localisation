@@ -220,12 +220,12 @@
     <string name="invert">Color inversion</string>
     <string name="saturation">Saturation</string>
     <string name="display_value">Display value</string>
-    <string name="set_on_boot_toast_summary_off">A toast message won\'t be shown when you toggle the set on boot switch</string>
-    <string name="set_on_boot_toast_summary_on">A message will be shown every time you set some setting to be restored on reboots</string>
+    <string name="set_on_boot_toast_summary_off">Una notifica toasr non verrà mostrata quanto attiverai il bottone di impostazione all'avvio</string>
+    <string name="set_on_boot_toast_summary_on">Un messaggio verrà mostrato ogni volta che imposterai che verrà resettata ad ogni avvio</string>
     <string name="set_on_boot_toast_title">Set on boot toast message</string>
-    <string name="error_in_app_payment">There was an error contacting Google Play Services. Try again</string>
-    <string name="donate_title">Donation packages</string>
-    <string name="donate_summary">If you feel that I deserve a some more shinnies for all my on-going efforts</string>
+    <string name="error_in_app_payment">C'è stato un errore nel contattare Google Play Services. Prova di nuovo</string>
+    <string name="donate_title">Pacchetti donazioni</string>
+    <string name="donate_summary">Se pensi che dovrei riservare più shinnies per il mio continuo sforzo</string>
     <string name="theme">Theme</string>
     <string name="app_theme">Application theme</string>
     <string name="theme_donate_title">Support Dark theme!</string>
